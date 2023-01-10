@@ -50,3 +50,5 @@ Mouse Click when icon is red : use “concentration” skill
 14.One zombie kill by normal bullet pluses 100 score.
 
 15.One zombie kill by Concentration pluses 150 score.
+
+16.Zombie rarely drops item 'medikit' or 'AR ammo' or 'SR ammo'. But the zombie dead by Concentration doesn't drop item.
